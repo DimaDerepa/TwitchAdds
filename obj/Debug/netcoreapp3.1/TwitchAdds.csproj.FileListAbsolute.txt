@@ -1,0 +1,15 @@
+C:\Users\dimad\source\repos\twitch\TwitchAdds\bin\Debug\netcoreapp3.1\TwitchAdds.exe
+C:\Users\dimad\source\repos\twitch\TwitchAdds\obj\Debug\netcoreapp3.1\TwitchAdds.csprojAssemblyReference.cache
+C:\Users\dimad\source\repos\twitch\TwitchAdds\obj\Debug\netcoreapp3.1\TwitchAdds.AssemblyInfoInputs.cache
+C:\Users\dimad\source\repos\twitch\TwitchAdds\obj\Debug\netcoreapp3.1\TwitchAdds.AssemblyInfo.cs
+C:\Users\dimad\source\repos\twitch\TwitchAdds\bin\Debug\netcoreapp3.1\TwitchAdds.deps.json
+C:\Users\dimad\source\repos\twitch\TwitchAdds\bin\Debug\netcoreapp3.1\TwitchAdds.runtimeconfig.json
+C:\Users\dimad\source\repos\twitch\TwitchAdds\bin\Debug\netcoreapp3.1\TwitchAdds.runtimeconfig.dev.json
+C:\Users\dimad\source\repos\twitch\TwitchAdds\bin\Debug\netcoreapp3.1\TwitchAdds.dll
+C:\Users\dimad\source\repos\twitch\TwitchAdds\bin\Debug\netcoreapp3.1\TwitchAdds.pdb
+C:\Users\dimad\source\repos\twitch\TwitchAdds\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dimad\source\repos\twitch\TwitchAdds\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\dimad\source\repos\twitch\TwitchAdds\obj\Debug\netcoreapp3.1\TwitchAdds.csproj.CopyComplete
+C:\Users\dimad\source\repos\twitch\TwitchAdds\obj\Debug\netcoreapp3.1\TwitchAdds.dll
+C:\Users\dimad\source\repos\twitch\TwitchAdds\obj\Debug\netcoreapp3.1\TwitchAdds.pdb
+C:\Users\dimad\source\repos\twitch\TwitchAdds\obj\Debug\netcoreapp3.1\TwitchAdds.genruntimeconfig.cache
